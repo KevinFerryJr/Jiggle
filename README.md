@@ -19,10 +19,9 @@ Jiggle Engine is a simple game engine for Windows with a focus on user accessibi
 [Include examples of how to use your game engine/editor, such as code snippets, demos, or screenshots.]
 
 ## Contributing
-[Explain how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or code contributions.]
-
+Join the discord and learn how to get involved! --> https://discord.gg/mrxhqNFA
 ## License
-[Specify the license under which your game engine/editor is distributed.]
+Apache Lisence 2.0 --> http://www.apache.org/licenses/
 
 ## Credits
 [Give credit to any third-party libraries, assets, or contributors that have been used in the development of your game engine/editor.]
