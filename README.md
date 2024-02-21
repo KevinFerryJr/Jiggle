@@ -1,3 +1,5 @@
+![Banner Image](.\Jiggle\graphics\GitHub\JiggleGitHubBanner.jpg)
+
 # Jiggle Engine
 
 ## Overview
