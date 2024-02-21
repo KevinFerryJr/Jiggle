@@ -1,4 +1,4 @@
-![Banner Image](.\Jiggle\graphics\GitHub\JiggleGitHubBanner.jpg)
+![Banner Image](Jiggle\graphics\GitHub\JiggleGitHubBanner.jpg)
 
 # Jiggle Engine
 
