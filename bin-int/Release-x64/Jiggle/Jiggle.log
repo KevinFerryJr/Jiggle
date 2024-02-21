@@ -1,0 +1,7 @@
+﻿  test.cpp
+     Creating library C:\Users\Kevin\OneDrive\Desktop\Soft Dev\C++\Jiggle\bin\Release-x64\Jiggle\Jiggle.lib and object C:\Users\Kevin\OneDrive\Desktop\Soft Dev\C++\Jiggle\bin\Release-x64\Jiggle\Jiggle.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Jiggle.vcxproj -> C:\Users\Kevin\OneDrive\Desktop\Soft Dev\C++\Jiggle\bin\Release-x64\Jiggle\Jiggle.dll

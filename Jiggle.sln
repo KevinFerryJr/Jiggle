@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{986E76AA-1159-4E72-AEA6-74F8069EE898}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jiggle", "Jiggle\Jiggle.vcxproj", "{E8EB3339-46A2-47C6-9BE0-1713D26C67BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{986E76AA-1159-4E72-AEA6-74F8069EE898}.Debug|x64.ActiveCfg = Debug|x64
+		{986E76AA-1159-4E72-AEA6-74F8069EE898}.Debug|x64.Build.0 = Debug|x64
+		{986E76AA-1159-4E72-AEA6-74F8069EE898}.Release|x64.ActiveCfg = Release|x64
+		{986E76AA-1159-4E72-AEA6-74F8069EE898}.Release|x64.Build.0 = Release|x64
+		{E8EB3339-46A2-47C6-9BE0-1713D26C67BE}.Debug|x64.ActiveCfg = Debug|x64
+		{E8EB3339-46A2-47C6-9BE0-1713D26C67BE}.Debug|x64.Build.0 = Debug|x64
+		{E8EB3339-46A2-47C6-9BE0-1713D26C67BE}.Release|x64.ActiveCfg = Release|x64
+		{E8EB3339-46A2-47C6-9BE0-1713D26C67BE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78C92B44-011F-45A7-9C67-68F06A6DC83B}
+	EndGlobalSection
+EndGlobal
