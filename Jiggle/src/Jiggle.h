@@ -4,6 +4,7 @@
 
 #include <stdio.h>
 #include "Jiggle/Application.h"
+#include "Jiggle/Log.h"
 
 //--------- Entry Point -------------
 #include "Jiggle/EntryPoint.h"

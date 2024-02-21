@@ -6,7 +6,10 @@ extern Jiggle::Application* Jiggle::CreateApplication();
 
 int main(int argc, char** argv) {
 
-	printf("Loading Jiggle Engine...\n");
+	Jiggle::Log::Init();
+
+	JIGL_CORE_INFO("Logging Initialized.");
+	JIGL_INFO("Logging Initialized.");
 	
 	auto app = Jiggle::CreateApplication();
 	app->Run();
