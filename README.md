@@ -1,7 +1,7 @@
 # Jiggle Engine
 
 ## Overview
-Jiggle Engine is a simple game engine for Windows with a focus on user accessibility and soft-body physics/rendering.
+Jiggle Engine is a simple game engine for Windows with a focus on user accessibility and soft-body physics.
 
 ## Installation
 [Provide instructions on how to install and set up the game engine/editor. Include any prerequisites and step-by-step installation guides.]
