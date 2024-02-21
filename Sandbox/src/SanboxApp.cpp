@@ -11,8 +11,7 @@ public:
 	}
 };
 
-void main() {
-	Sandbox* sandbox = new Sandbox();
-	sandbox->Run();
-	delete sandbox;
+Jiggle::Application* Jiggle::CreateApplication()
+{
+	return new Sandbox();
 }
