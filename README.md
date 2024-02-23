@@ -26,5 +26,8 @@ Join the discord and learn how to get involved! --> https://discord.gg/mrxhqNFA
 Apache Lisence 2.0 --> http://www.apache.org/licenses/
 
 ## Credits
-[Give credit to any third-party libraries, assets, or contributors that have been used in the development of your game engine/editor.]
+### Key contributers
+N/A
+### External Libraries & Assets
+"SpeedLog" for logging support on Windows: https://github.com/gabime/spdlog
 
